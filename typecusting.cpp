@@ -11,5 +11,17 @@ int main()
     cout << sizeof(34.33F) << endl;
     cout << sizeof(34.33l) << endl;
     cout << sizeof(34.33L) << endl;
+
+    // refernce variable
+    int x = 200;
+    int &y = x;
+    cout << x << endl;
+    cout << y << endl;
+
+    // typecusting variable
+
+    int m = 100;
+    cout << "type casting of " << (float)m;
+
     return 0;
 }

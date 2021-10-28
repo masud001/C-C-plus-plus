@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
-
+#include "headerFIle.h"
 int main()
 {
     int num1, num2;
     cout << "Enter the num1 here : ";
-    cin >> num1;
+    wcin >> num1;
     cout << "Enter the num2 here : ";
-    cin >> num2;
+    wcin >> num2;
     cout << "the total value is  : " << num1 + num2;
     return 0;
 }

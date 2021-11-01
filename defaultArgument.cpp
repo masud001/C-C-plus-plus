@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// 📓 default argument in a function by default when you initializ function
+// 📓 default argument in a function by default when you initialize function
 float interest(int a, float increment = 1.04)
 {
 
@@ -12,6 +12,5 @@ int main()
     int money = 100000;
     cout << "increment is : " << interest(money) << endl;
     cout << "increment is : " << interest(money, 1.1) << endl;
-
     return 0;
 }

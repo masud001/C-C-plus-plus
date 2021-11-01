@@ -14,7 +14,7 @@ void swap(int a, int b)
     cout << "inside function " << endl;
     cout << "a is : " << a << ", b is : " << b << endl;
 }
-// call by velue reference usnign pointer
+// call by value reference usnign pointer
 void swapPointer(int *a, int *b)
 {
     int temp = *a;

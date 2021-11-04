@@ -4,5 +4,6 @@
 		"iostream": "cpp",
 		"ostream": "cpp",
 		"iomanip": "cpp"
-	}
+	},
+	"cSpell.words": ["masud"]
 }

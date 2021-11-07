@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
+/*
+if it is not static variable, then, for every object it will start from 1.
+if it is static variable then it will count for all abject of this class.
 
+*/
 class Employee
 {
     int id;

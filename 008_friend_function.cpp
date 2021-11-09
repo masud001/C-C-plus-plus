@@ -1,5 +1,10 @@
 #include <iostream>
 using namespace std;
+/*
+1--> Friend Function is not member of a class;
+2--> friend Function can be initiated for anywhere in class publick or private.
+3--> it is not scope on class. and access class data(publick,private).
+*/
 class Complex
 {
     int a, b;

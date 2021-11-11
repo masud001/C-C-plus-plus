@@ -3,7 +3,8 @@
 		"*.scss": "scss",
 		"iostream": "cpp",
 		"ostream": "cpp",
-		"iomanip": "cpp"
+		"iomanip": "cpp",
+		"cmath": "cpp"
 	},
 	"cSpell.words": ["masud"]
 }

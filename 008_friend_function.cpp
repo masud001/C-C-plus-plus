@@ -27,6 +27,7 @@ Complex sumComplex(Complex o1, Complex o2)
     o3.setNumber((o1.a + o2.a), (o1.b + o2.b));
     return o3;
 }
+
 int main()
 {
 
